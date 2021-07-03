@@ -12,7 +12,7 @@ Morphological
 
 Image restoration
 
-Compression (JPEG comp)
+Compression (JPEG compress)
 
 Image warping
 
